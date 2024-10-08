@@ -16,6 +16,7 @@
 - [Github pages](https://pages.github.com/)
 - [w3 schools](https://www.w3schools.com/)
 - [youtube](https://www.youtube.com/)
+* [CLI commands](docs/cli.md)
 
 ## Experiments
 - :smiley:
@@ -33,4 +34,4 @@ Shortcuts I would like to start using:
 - Win-D (show desktop)
 - Ctrl-X (cut) 
 
-[CLI commands](docs/cli.md)
+
